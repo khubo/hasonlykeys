@@ -3,7 +3,7 @@
  check if an object has only specific properties (keys)
  
  ## Installation
- ` npm insatll hasonlykeys `
+ ` npm install hasonlykeys `
  
  ## API
  
