@@ -1,0 +1,27 @@
+{
+  "name": "hasonlykeys",
+  "version": "0.0.1",
+  "description": "Check if an object only has the stated keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khubo/hasonlykeys.git"
+  },
+  "keywords": [
+    "util",
+    "object",
+    "object-keys"
+  ],
+  "author": "khubo (aswinrajv@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khubo/hasonlykeys/issues"
+  },
+  "homepage": "https://github.com/khubo/hasonlykeys#readme",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
